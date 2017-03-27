@@ -1,0 +1,11 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CHH",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
